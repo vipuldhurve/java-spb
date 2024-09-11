@@ -1,0 +1,21 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id = "devSpring" class="com.app.telusko.springNotBoot.service.DevSpring" autowire="byType">
+<!--        <property name="age" value="12" />-->
+<!--        <property name="computerSpring" ref="desktopString-1" />-->
+
+<!--        <constructor-arg name="age" value="20" />-->
+<!--        <constructor-arg name="salary" value="50000" />-->
+<!--        <constructor-arg name="laptopSpring" ref="laptopSpring-1" />-->
+    </bean>
+
+    <bean id = "laptopSpring-1" class="com.app.telusko.springNotBoot.service.LaptopSpring" primary="true">
+    </bean>
+
+    <bean id = "desktopString-1" class="com.app.telusko.springNotBoot.service.DesktopSpring">
+    </bean>
+
+</beans>
