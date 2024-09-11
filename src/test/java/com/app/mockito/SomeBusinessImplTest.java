@@ -1,5 +1,7 @@
 package com.app.mockito;
 
+import com.app.in28minutes.mockito.SomeBusinessImpl;
+import com.app.in28minutes.mockito.SomeDataService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

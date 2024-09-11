@@ -1,4 +1,4 @@
-package com.app.scope;
+package com.app.in28minutes.scope;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

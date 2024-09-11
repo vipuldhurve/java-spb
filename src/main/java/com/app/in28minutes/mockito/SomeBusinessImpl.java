@@ -1,4 +1,4 @@
-package com.app.mockito;
+package com.app.in28minutes.mockito;
 
 public class SomeBusinessImpl {
 

@@ -1,5 +1,7 @@
 package com.app.cdi;
 
+import com.app.in28minutes.cdi.SomeCdiBusiness;
+import com.app.in28minutes.cdi.SomeCdiDao;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

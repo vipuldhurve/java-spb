@@ -1,4 +1,4 @@
-package com.app.basic;
+package com.app.in28minutes.basic;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

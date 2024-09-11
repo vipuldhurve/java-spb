@@ -1,4 +1,4 @@
-package com.app.cdi;
+package com.app.in28minutes.cdi;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

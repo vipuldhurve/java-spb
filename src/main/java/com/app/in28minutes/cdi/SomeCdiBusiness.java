@@ -1,4 +1,4 @@
-package com.app.cdi;
+package com.app.in28minutes.cdi;
 
 import javax.inject.Inject;
 import javax.inject.Named;

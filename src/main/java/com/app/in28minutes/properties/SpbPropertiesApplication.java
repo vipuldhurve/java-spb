@@ -1,4 +1,4 @@
-package com.app.properties;
+package com.app.in28minutes.properties;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

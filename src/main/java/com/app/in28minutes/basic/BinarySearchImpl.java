@@ -1,4 +1,4 @@
-package com.app.basic;
+package com.app.in28minutes.basic;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

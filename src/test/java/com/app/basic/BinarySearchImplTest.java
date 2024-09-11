@@ -1,5 +1,7 @@
 package com.app.basic;
 
+import com.app.in28minutes.basic.BinarySearchImpl;
+import com.app.in28minutes.basic.SpbBasicApplication;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

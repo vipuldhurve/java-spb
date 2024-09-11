@@ -1,4 +1,4 @@
-package com.app.componentScan;
+package com.app.in28minutes.componentScan;
 
 import org.springframework.stereotype.Component;
 

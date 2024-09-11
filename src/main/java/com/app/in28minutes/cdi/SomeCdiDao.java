@@ -1,4 +1,4 @@
-package com.app.cdi;
+package com.app.in28minutes.cdi;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 

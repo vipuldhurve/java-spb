@@ -1,6 +1,6 @@
-package com.app.componentScan.inner;
+package com.app.in28minutes.componentScan.inner;
 
-import com.app.componentScan.ComponentDao;
+import com.app.in28minutes.componentScan.ComponentDao;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
